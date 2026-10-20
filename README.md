@@ -4,6 +4,12 @@ Eine leichtgewichtige iOS-App zum Durchsuchen von GitHub-Repositories und den ne
 
 Die App ruft Repository-Listen von GitHub ab, zeigt sie in einer benutzerdefinierten Tabellenansicht im Kartenstil an und unterstützt das Öffnen von Repo-Links in Safari sowie das Kopieren von Commit-SHA-Werten.
 
+## App-Demo
+
+Die kurze Bildschirmaufnahme zeigt das Laden öffentlicher GitHub-Repositories, die Anzeige der neuesten Commit-IDs sowie das Öffnen eines Repositories im integrierten Browser.
+
+https://github.com/user-attachments/assets/f499bcdb-5d02-4840-b26d-a8d3e36498e5
+
 ## Inhaltsverzeichnis
 
 - [Projektziele](#projektziele)
