@@ -8,7 +8,8 @@ Die App ruft Repository-Listen von GitHub ab, zeigt sie in einer benutzerdefinie
 
 Die kurze Bildschirmaufnahme zeigt das Laden öffentlicher GitHub-Repositories, die Anzeige der neuesten Commit-IDs sowie das Öffnen eines Repositories im integrierten Browser.
 
-https://github.com/user-attachments/assets/f499bcdb-5d02-4840-b26d-a8d3e36498e5
+https://github.com/user-attachments/assets/529db397-ebce-44a7-9b57-e5a7fdafb88e
+
 
 ## Inhaltsverzeichnis
 
